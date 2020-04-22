@@ -1,0 +1,18 @@
+.btn_signUp{
+background-color:#269644;
+border:0!important;
+}
+.btn_signUp:hover{
+    background-color: #075a1d;
+    
+}
+.textSub{
+    color:#269644;
+    font-weight: 600;
+}
+.img-logo{
+width: 80px;
+}
+.textarea{
+    resize: none;
+}
